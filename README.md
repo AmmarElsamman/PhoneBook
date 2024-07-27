@@ -20,11 +20,11 @@ Developed using C# and MS Server.
 	- Used code-first approach to implement tables 
 
 * A console based UI menu used Spectre.Console Package
+  - Each Option calls independent method which handles the database requests
   - ![main menu](https://github.com/user-attachments/assets/5634b27f-e04c-4369-b2b6-37907c841688)
 
 
 * Add menu to add new contacts
-  - Each Option calls independent method which handles the database requests
   - Added a droplist to choose contact relation
   - ![Add menu](https://github.com/user-attachments/assets/f9f78163-e8a2-459e-b93a-347397184a8c)
 
